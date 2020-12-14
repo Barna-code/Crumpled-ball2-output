@@ -39,7 +39,7 @@ function draw() {
 
 	fill("black")
 	textSize(30)
-	text("Press Up Arrow key to make the ball go inside the box", 200, 50)
+	text("Press Up Arrow key to make the paper go inside the box", 200, 50)
 
 
 }
